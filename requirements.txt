@@ -1,0 +1,34 @@
+# LangChain core
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# LLM (cloud - Groq)
+
+langchain-google-genai
+
+# Embeddings (local)
+langchain-huggingface
+sentence-transformers
+
+# Vector DB (local)
+langchain-chroma
+chromadb
+
+# Document loading
+pypdf
+python-docx
+unstructured[all-docs]
+
+# OCR (for scanned policy PDFs/images)
+pytesseract
+pillow
+pdf2image
+
+# App / UI
+streamlit
+
+# Utilities
+tiktoken
+python-dotenv
