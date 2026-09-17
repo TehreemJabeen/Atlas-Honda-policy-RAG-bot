@@ -1,0 +1,19 @@
+# Generated/regenerable pipeline outputs
+extracted_structure/
+extracted_text/
+chroma_db/
+vector_store.json
+knowledge_graph.json
+eval_dataset.csv
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
